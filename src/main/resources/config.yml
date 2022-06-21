@@ -1,0 +1,9 @@
+Messages:
+  Vanished-Broadcast: "&7[%player% &evanished&7]"
+  Unvanished-Broadcast: "&7[%player% &eunvanished&7]"
+  Player-Vanished-Other-Broadcast: "&7[%player% &evanished &6%target%&7]"
+  Player-Unvanished-Other-Broadcast: "&7[%player% &eunvanished &6%target%&7]"
+  Vanished-Message: "&eYour vanish mode has been &6enabled&e!"
+  Unvanished-Message: "&eYour vanish mode has been &6disabled&e!"
+  Anti-Items-Drop: "&cYou can't drop items in vanish mode!"
+  Anti-Damage: "&cYou can't hurt other players in vanish mode!"
